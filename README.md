@@ -1,2 +1,25 @@
-# a0a4723cbd18482e-ai-productivity-standard-opera
-A comprehensive standard operating procedures library designed specifically for the ai productivity industry.
+# Ai Productivity Standard Operating Procedures Library
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI00j4ePaQAf44bzScZe1E)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI00j4ePaQAf44bzScZe1E)
+
